@@ -1,0 +1,22 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  openglwindow.cpp
+  Point3D.cpp
+  Reader.cpp
+  Triangle.cpp
+  TriangleWindow.cpp
+  Triangulation.cpp
+  Writer.cpp
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(51,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(51,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(51,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(59,77): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(74,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(74,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(74,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(83,78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\Reader.cpp(38,13): warning C4101: 'Normal': unreferenced local variable
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\TriangleWindow.cpp(75,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\TriangleWindow.cpp(142,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  moc_openglwindow.cpp
+  openglwindow.vcxproj -> D:\Rohit_Workspace\QT\openglTrangulationProject\triangle1\debug\openglwindow.exe
